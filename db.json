@@ -1,0 +1,25 @@
+{
+  "users" : [
+    {
+      "username": "momonjs",
+      "email": "momon@gmail.com",
+      "password": "1"
+    },
+    {
+      "username": "jrunn",
+      "email": "jrunn@gmail.com",
+      "password": "2"
+    },
+    {
+      "username": "aal",
+      "email": "aal@gmail.com",
+      "password": "3"
+    },
+    {
+      "username": "moul",
+      "email": "moul@gmail.com",
+      "password": "4"
+    }
+  ]
+  
+}
